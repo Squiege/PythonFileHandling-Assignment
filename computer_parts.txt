@@ -1,0 +1,12 @@
+Computer Parts
+
+CPU
+AMD Ryzen 5 7600
+Intel Core i5-13400F
+AMD Ryzen 7 - 5700X
+Intel Core i5-10400
+
+Graphics Cards
+Nvidia 4090
+Nvidia 4080
+Nvidia 4060 TI

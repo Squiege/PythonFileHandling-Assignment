@@ -1,0 +1,1 @@
+Unsure why the result is repeating itself. I also didn't understand if the question was asking to have the user give the path or predetermined directories.
